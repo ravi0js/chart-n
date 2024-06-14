@@ -1,0 +1,64 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: url('https://asset.gecdesigns.com/img/wallpapers/aesthetic-landscape-reflection-background-hd-wallpaper-sr10012410-1706502139247-cover.webp');
+    /* object-fit: cover; */
+    background-attachment: fixed;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.main > div {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+}
+.chart_container{
+    /* width: 60rem; */
+    display: flex;
+    flex-direction: column;
+    height: 70vh;
+    background-color: white;
+    box-shadow: 5px 5px 2px rgb(176, 245, 241);
+    padding: 1rem;
+    border-radius: 2rem;
+}
+select{
+    background-color: rgb(221, 130, 102);
+    color: white;
+    padding: 0.3rem;
+    font-size: 1rem;
+}
+select>option{
+    
+    padding: 1rem;
+}
+canvas{
+    width: 60rem;
+}
+
+.css-selector-demo .el {
+    width: 150px;
+    height: 50px;
+    background-color: #3498db;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.css-selector-demo {
+    margin-bottom: 20px;
+}
+
+.el {
