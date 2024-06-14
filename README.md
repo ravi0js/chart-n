@@ -11,10 +11,6 @@ This project demonstrates how to integrate Anime.js animations with various char
 - [Technologies](#technologies)
 - [License](#license)
 
-## Demo
-
-![Demo Screenshot](screenshot.png)
-
 ## Features
 
 - Animated text element using Anime.js
