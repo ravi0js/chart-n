@@ -47,3 +47,5 @@ anime-chartjs-demo/
 ├── script.js
 ├── style.css
 └── README.md
+
+## Hosted link: https://ravi0js.github.io/chart-n/
